@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Metadata>
+   <DisplayName>MyFunctionBlock123</DisplayName>
+   <FolderType>PouFolder</FolderType>
+   <ContentType>FunctionBlock</ContentType>
+   <Kind>FunctionBlock</Kind>
+   <Accessibility>Visible</Accessibility>
+   <Id>c106556d-afc0-4836-9354-0521358e462e</Id>
+   <ItemGroup>
+      <VariableWorksheet>
+         <Id>d23bd018-25fe-4559-a32e-4ff52ad26624</Id>
+      </VariableWorksheet>
+   </ItemGroup>
+</Metadata>
